@@ -15366,10 +15366,10 @@
 36387,"BR-2557","small_airport","Mamuru Airport",-3.117976,-56.583568,99,"SA","BR","BR-PA","Juruti","no",,,,,,,"SIYT"
 36390,"BR-2558","small_airport","Fazenda Salvação Airport",-5.952222,-56.543331,601,"SA","BR","BR-PA","Itaituba","no",,,,,,,"SIYW"
 36391,"BR-2559","small_airport","Fazenda Varginha Airport",-21.950000762939,-46.549999237061,4200,"SA","BR","BR-MG","Andradas","no",,,,"SIYX",,,"SIYX"
-36393,"BR-2560","small_airport","Parque Manoelito Argolo Airport",-11.960277557373,-38.002777099609,558,"SA","BR","BR-BA","Entre Rios","no",,,,"SIZA",,,"SIZA"
-36396,"BR-2561","heliport","Sabre Heliport",-23.387222290039,-47.330276489258,2094,"SA","BR","BR-SP","Itu","no",,,,"SIZD",,,"SIZD"
-36402,"BR-2562","small_airport","Fazenda Santa Clara",-10.7027777778,-48.1944444444,1024,"SA","BR","BR-TO","Porto Nacional","no",,,,"SIZM",,,"SIZM"
-36404,"BR-2563","heliport","Fazenda Sant`Anna da Grama Heliport",-23.0561103821,-47.0791664124,2188,"SA","BR","BR-SP","Itupeva","no",,,,"SIZP",,,"SIZP"
+36393,"BR-2560","small_airport","Parque Manoelito Argolo Airport",-11.960411,-38.00278,558,"SA","BR","BR-BA","Entre Rios","no",,,,,,,"SIZA"
+36396,"BR-2561","heliport","Sabre Heliport",-23.387222,-47.330276,2094,"SA","BR","BR-SP","Itu","no",,,,,,,"SIZD"
+36402,"BR-2562","small_airport","Fazenda Santa Clara",-10.702778,-48.194444,1024,"SA","BR","BR-TO","Porto Nacional","no",,,,,,,"SIZM"
+36404,"BR-2563","heliport","Fazenda Sant' Anna da Grama Heliport",-23.057272,-47.080539,2188,"SA","BR","BR-SP","Itupeva","no",,,,,,,"SIZP"
 36406,"BR-2564","small_airport","Fazenda Carolina Airport",-12.901916,-61.130168,853,"SA","BR","BR-RO","Corumbiara","no",,,,,,,"SIZR"
 36408,"BR-2565","small_airport","Fazenda Buriti Airport",-19.353724,-56.795472,299,"SA","BR","BR-MS","Corumbá","no",,,,,,,"SIZT"
 36413,"BR-2566","small_airport","Fazenda São José do Rio Branco Airport",-15.071389,-59.153332,1142,"SA","BR","BR-MT","Pontes E Lacerda","no",,,,"SJAA",,,"SJAA"
@@ -27385,6 +27385,7 @@
 596695,"FR-1280","heliport","Domaine de Senercy Heliport",49.766838,3.393981,,"EU","FR","FR-HDF","Senercy","no",,,,,,,
 597644,"FR-1281","closed","Oyonnax - Arbent",46.278611,5.666389,,"EU","FR","FR-U-A","Oyonnax","no",,,,,"https://fr.m.wikipedia.org/wiki/A%C3%A9rodrome_d%27Oyonnax_-_Arbent","https://fr.m.wikipedia.org/wiki/A%C3%A9rodrome_d%27Oyonnax_-_Arbent","LFLK"
 597830,"FR-1282","heliport","Sissonne DZ",49.540844,3.970774,,"EU","FR","FR-HDF","Sissonne","no",,,,,,,
+598002,"FR-1283","heliport","Béthune DZ",50.552843,2.633543,,"EU","FR","FR-HDF","Béthune","no",,,,,,,
 35155,"FR-JCA","heliport","Cannes Croisette Heliport",43.535287,7.038296,,"EU","FR","FR-PAC","Cannes, Alpes-Maritimes","yes",,,,,,,"Palm Beach"
 2990,"FSAL","small_airport","Alphonse Airport",-7.00478,52.7262,10,"AF","SC","SC-26","Alphonse Island","yes",,,"FSAL",,,"https://en.wikipedia.org/wiki/Alphonse_Airport",
 2991,"FSAS","small_airport","Assumption Island Airport",-9.74222,46.506802,10,"AF","SC","SC-26","Assumption Island","no",,,"FSAS",,,"https://en.wikipedia.org/wiki/Assumption_Island_Airport","assumption airport, assumption island"
@@ -61669,7 +61670,7 @@
 37427,"SSCX","small_airport","Fazenda Coxilha Airport",-28.095087,-52.335746,2133,"SA","BR","BR-RS","Passo Fundo","no",,,"SSCX","RS0093",,,
 37428,"SSCY","heliport","Sikorski Heliport",-25.438472,-49.448541,3149,"SA","BR","BR-PR","Campo Largo","yes",,,"SSCY","PR0132","http://www.sikorski.com.br",,"pilotoprivado, piloto, pilotodehelicóptero, cursopiloto, pilotocomercial, pilotosdehelicóptero, pilotobrasil, cursodepilotagem, escoladepilotagem, escoladepilotos, escoladeaviacao, escoladeaviação, heliponto, heliporto, helicentro, r44, r22, robinson, roto"
 333186,"SSDA","heliport","Água Mansa Heliport",-23.741404,-45.404187,7,"SA","BR","BR-SP","São Sebastião","no",,,"SSDA","SP0746",,,
-37431,"SSDD","heliport","HELPN Nossa Senhora de Fátima Heliport",-29.932878,-51.183286,13,"SA","BR","BR-RS","Canoas","no",,,"SSDD","RS9004",,,
+37431,"SSDD","heliport","Nossa Senhora de Fátima Heliport",-29.932878,-51.183286,13,"SA","BR","BR-RS","Canoas","no",,,"SSDD","RS9004",,,
 44726,"SSDG","small_airport","Fazenda Nazaré Airport",-9.335862,-45.57298,2034,"SA","BR","BR-PI","Santa Filomena","no",,,"SNXZ","PI0033",,,"SSDG"
 44727,"SSDI","small_airport","Fazenda Bacatuba Airport",-5.659765,-43.705702,584,"SA","BR","BR-MA","Buriti Bravo","no",,,"SSDI","MA0044",,,
 37436,"SSDK","small_airport","São Pedro",-20.075955,-44.727917,2713,"SA","BR","BR-MG",,"no",,,"SSDK","MG0178",,,
