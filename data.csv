@@ -1084,6 +1084,7 @@
 7652,"10AZ","small_airport","Pierce Airport",33.36640167236328,-112.61799621582031,860,"NA","US","US-AZ","Buckeye","no",,,"10AZ","10AZ",,,
 7653,"10CA","heliport","William E Poole Heliport",34.602292,-117.172462,3120,"NA","US","US-CA","Apple Valley","no",,,,,,,"10CA"
 322689,"10CN","heliport","Adventist Health St Helena Heliport",38.543333,-122.475,581,"NA","US","US-CA","St Helena","no",,,"10CN","10CN",,,"St Helena Hospital"
+598228,"10CT","heliport","Steel Pointe Harbor Heliport",41.176296,-73.180857,16,"NA","US","US-CT","Bridgeport","no",,,"10CT","10CT",,,
 7656,"10D","small_airport","Winsted Municipal Airport",44.950001,-94.066902,1030,"NA","US","US-MN","Winsted","no",,,"10D","10D",,"https://en.wikipedia.org/wiki/Winsted_Municipal_Airport",
 7657,"10F","small_airport","Rosser Ranch Airport",33.0154,-98.626,1112,"NA","US","US-TX","Graham","no",,,"10TT","10TT",,,"10F"
 7658,"10FA","small_airport","Flying Baron Estates Airport",28.797500610351562,-81.93589782714844,75,"NA","US","US-FL","Leesburg","no",,,"10FA","10FA",,,
@@ -1484,6 +1485,7 @@
 8073,"17TX","small_airport","Kimzey Airport",32.443395,-98.255024,1100,"NA","US","US-TX","Stephenville","no",,,"17TX","17TX",,,"Mize Ranch"
 8076,"17WA","heliport","Roesler Timber Company Heliport",47.86819839477539,-121.75299835205078,141,"NA","US","US-WA","Startup","no",,,"17WA","17WA",,,
 8077,"17WI","small_airport","Ha-Rail Airport",43.03609848022461,-88.89320373535156,885,"NA","US","US-WI","Lake Mills","no",,,"17WI","17WI",,,
+598230,"17WT","small_airport","Lathrop Field",47.828311,-118.13862,1681,"NA","US","US-WA","Davenport","no",,,"17WT","17WT",,,
 299706,"17XA","small_airport","Jacksonville / Hunter Field",32.017778,-95.7969444445,580,"NA","US","US-TX","Jacksonville","no",,,"17XA","17XA",,,
 8078,"17XS","small_airport","Quahadi Ranch Airport",32.177799224853516,-98.43499755859375,1422,"NA","US","US-TX","Dublin","no",,,"17XS","17XS",,,
 325112,"18AA","small_airport","18 Meadows Aerodrome",59.364956,-135.804791,89,"NA","US","US-AK","Haines","no",,,"18AA","18AA",,,
@@ -1723,6 +1725,7 @@
 8328,"1IA5","heliport","Story County Hospital Heliport",42.017493,-93.453026,995,"NA","US","US-IA","Nevada","no",,,"1IA5","1IA5",,,"SCH Heliport"
 8329,"1IA6","small_airport","Aero-Lane Airport",40.8849983215332,-95.48529815673828,1134,"NA","US","US-IA","Randolph","no",,,"1IA6","1IA6",,,
 8330,"1IA7","heliport","University of Iowa Hospitals & Clinic Heliport",41.65999984741211,-91.54769897460938,840,"NA","US","US-IA","Iowa City","no",,,"1IA7","1IA7",,,
+598232,"1ID1","heliport","The Talis Heliport",47.652222,-116.7225,2654,"NA","US","US-ID","Coeur d'Alene","no",,,"1ID1","1ID1",,,
 8332,"1ID2","heliport","Horseshoe Bend Heliport",43.914398193359375,-116.1969985961914,2300,"NA","US","US-ID","Horseshoe Bend","no",,,"1ID2","1ID2",,,
 8333,"1ID3","small_airport","Beaux Ranch Field",48.167965,-116.725331,2079,"NA","US","US-ID","Sandpoint","no",,,"1ID3","1ID3",,,
 8334,"1ID4","small_airport","Red Baron Airpark",43.3105555556,-115.9025,3259,"NA","US","US-ID","Oasis","no",,,"1ID4","1ID4",,,
@@ -10219,7 +10222,7 @@
 38902,"AR-0227","small_airport","La Mezquita Airport",-31.400800705,-64.3003005981,1672,"SA","AR","AR-X","Cordoba/La Mezquita","no",,,,"MEZ",,,
 38903,"AR-0228","heliport","La Milagrosa Heliport",-32.4828,-58.2506,49,"SA","AR","AR-E","Concepcion Del Uruguay","no",,,,"HMI",,,
 38904,"AR-0229","small_airport","La Nueva Airport",-34.9464,-61.3042,246,"SA","AR","AR-B","Lincoln","no",,,,"LNV",,,
-38905,"AR-0230","small_airport","La Paz Aeroclub Airport",-30.7442,-59.5683,200,"SA","AR","AR-E","La Paz","no","SLAZ","LPZ",,"SALAZ",,"https://en.wikipedia.org/wiki/La_Paz_Aeroclub",
+38905,"AR-0230","small_airport","La Paz Aeroclub Airport",-30.743991,-59.569333,200,"SA","AR","AR-E","La Paz","no",,,,"LAZ",,"https://en.wikipedia.org/wiki/La_Paz_Aeroclub",
 38906,"AR-0231","small_airport","La Pelada Airport",-30.9556,-60.8858,144,"SA","AR","AR-S","La Pelada","no",,,,"PEL",,,
 38907,"AR-0232","small_airport","La Siesta Airport",-33.6939,-62.0625,367,"SA","AR","AR-S","Venado Tuerto","no",,,,"VTO",,,
 38908,"AR-0233","heliport","La Superba Heliport",-34.5008,-59.015,32,"SA","AR","AR-B","Open Door","no",,,,"HLS",,,
@@ -23320,11 +23323,11 @@
 28765,"EDXY","small_airport","Wyk auf Föhr Airport",54.684444,8.528333,26,"EU","DE","DE-SH","Wyk auf Föhr","no","EDXY","OHR","EDXY",,,"https://de.wikipedia.org/wiki/Flugplatz_Wyk_auf_F%C3%B6hr",
 28626,"EDXZ","small_airport","Kührstedt-Bederkesa Airfield",53.568054,8.789444,26,"EU","DE","DE-NI","Geestland","no",,,"EDXZ",,,"https://de.wikipedia.org/wiki/Flugplatz_K%C3%BChrstedt-Bederkesa","Flugplatz Kührstedt-Bederkesa"
 34941,"EE-0001","closed","Aste Air Base",58.3650016784668,22.44499969482422,69,"EU","EE","EE-74","Aste","no",,,,,,"https://en.wikipedia.org/wiki/Asta_%28air_base%29","Asta"
-30985,"EE-0002","closed","Haapsalu Air Base",58.911098,23.488899,69,"EU","EE","EE-57","Haapsalu","no",,,,,,"https://en.wikipedia.org/wiki/Tokhaapsalu","Tokhaapsalu Air Base"
+30985,"EE-0002","closed","Haapsalu Air Base",58.911098,23.488899,69,"EU","EE","EE-57","Haapsalu","no",,,,,,"https://en.wikipedia.org/wiki/Tokhaapsalu","EEHU, Tokhaapsalu Air Base"
 43200,"EE-0003","closed","Nässuma Airstrip",58.2836,22.817801,,"EU","EE","EE-74","Nässuma","no",,,,,,,
 299535,"EE-0004","closed","Jägala Highway Strip",59.397778,25.290556,150,"EU","EE","EE-37","Partsaare","no",,,,,,,
 321322,"EE-0005","seaplane_base","Roomassaare Seaplane Base",58.213254,22.50854,,"EU","EE","EE-74","Kuressaare","no",,,,"EE0005",,,
-323980,"EE-0006","closed","Piirissaar Airfield",58.378889,27.523333,,"EU","EE","EE-7B","Piirissaar","no",,,,,,,
+323980,"EE-0006","closed","Piirissaar Airfield",58.378889,27.523333,105,"EU","EE","EE-7B","Piirissaar","no",,,,,,"https://en.wikipedia.org/wiki/Piirissaare_Airfield","EEPR"
 329150,"EE-0007","closed","Kagul Air Base",58.3121457,22.2644062,,"EU","EE","EE-74",,"no",,,,,,"http://ru.wikipedia.org/Бомбардировки Берлина советской авиацией в 1941 году",
 333440,"EE-0008","closed","Lasnamäe Airfield",59.45,24.86333,,"EU","EE","EE-37","Tallinn","no",,,,,,"https://en.wikipedia.org/wiki/Lasnam%C3%A4e_Airfield",
 343880,"EE-0009","closed","Avaste Airfield",58.707634,24.221667,84,"EU","EE","EE-70","Avaste","no",,,,,,"https://en.wikipedia.org/wiki/Avaste_Airfield",
@@ -23338,7 +23341,7 @@
 554291,"EE-0017","small_airport","Aruvalla Airfield",59.239749,25.017607,,"EU","EE","EE-37",,"no",,,,,,,
 557306,"EE-0018","closed","Käina Airfield",58.844673,22.811522,,"EU","EE","EE-39",,"no",,,,,,"https://et.m.wikipedia.org/wiki/K%C3%A4ina_lennuv%C3%A4li",
 557308,"EE-0019","closed","Mustvee Highway Strip",58.776432,26.917191,,"EU","EE","EE-49",,"no",,,,,,"https://www.mil-airfields.de/ee-estonia/mustvee-highway-strip.htm",
-35113,"EE-1612","closed","Vohma Air Base",58.662200927734375,25.586700439453125,200,"EU","EE","EE-51","Vohma","no",,,,,,"https://en.wikipedia.org/wiki/Võhma_air_base",
+35113,"EE-1612","closed","Võhma Air Base",58.661853,25.578403,200,"EU","EE","EE-51","Vohma","no",,,,,,"https://en.wikipedia.org/wiki/Võhma_air_base",
 35098,"EE-4931","closed","Tõrva Air Base",58.189998626708984,25.948299407958984,203,"EU","EE","EE-84","Torva","no",,,,,,"https://en.wikipedia.org/wiki/Tõrva_air_base",
 35107,"EE-7685","closed","Valga Air Base",57.81330108642578,26.07670021057129,239,"EU","EE","EE-82","Valga","no",,,,,,"https://en.wikipedia.org/wiki/Valga_(air_base)",
 35013,"EE-9278","closed","Kunda Air Base",59.536701,26.311701,135,"EU","EE","EE-59","Kunda","no",,,,,,"https://en.wikipedia.org/wiki/Kunda_(air_base)","Rutja, EE9278"
@@ -23358,16 +23361,16 @@
 2299,"EEKE","medium_airport","Kuressaare Airport",58.22990036010742,22.50950050354004,14,"EU","EE","EE-74","Kuressaare","yes","EEKE","URE","EEKE",,"http://www.eeke.ee/","https://en.wikipedia.org/wiki/Kuressaare_Airport",
 315889,"EEKI","small_airport","Karksi Airfield",58.117078,25.552783,289,"EU","EE","EE-84","Karksi","no","EEKI",,"EEKI",,,"https://en.wikipedia.org/wiki/Karksi_Airfield","Nuia, Polli"
 538409,"EEKO","small_airport","Kose Airfield",59.168317,25.07097,,"EU","EE","EE-37","Kose","no",,,"EEKO",,,,
-30027,"EEKU","small_airport","Kihnu Airfield",58.148039,23.998523,10,"EU","EE","EE-67","Saareküla","no",,,"EEKU",,"http://www.eepu.ee/index.php?sitesig=PILEN&page=PILEN_013_Kihnu_Airfield&subpage=PILEN_001_General","https://en.wikipedia.org/wiki/Kihnu_Airfield","Kihnu Island"
+30027,"EEKU","small_airport","Kihnu Airfield",58.148039,23.998523,10,"EU","EE","EE-67","Saareküla","no","EEKU",,"EEKU",,"http://www.eepu.ee/index.php?sitesig=PILEN&page=PILEN_013_Kihnu_Airfield&subpage=PILEN_001_General","https://en.wikipedia.org/wiki/Kihnu_Airfield","Kihnu Island"
 321538,"EELM","small_airport","Lange Airfield (Lennundusmuuseum)",58.290658,26.767748,,"EU","EE","EE-7B","Tartu","no","EELM",,"EELM",,,"https://en.wikipedia.org/wiki/Lange_Airfield","Lennundusmuuseum, Lange lennuväli"
 318330,"EELU","small_airport","Lyckholm Airstrip",59.02211,23.57808,20,"EU","EE","EE-57","Saare","no","EELU",,"EELU",,,"https://en.wikipedia.org/wiki/Lyckholm_Airfield",
 538405,"EEMU","small_airport","Muhu Airfield",58.653495,23.271369,44,"EU","EE","EE-74","Muhu","no",,,"EEMU",,,,
 30181,"EENA","small_airport","Narva Airfield",59.388599,28.1136,92,"EU","EE","EE-44","Narva","no","EENA",,"EENA",,,"https://en.wikipedia.org/wiki/Narva_Airfield",
-30987,"EENI","small_airport","Nurmsi Airfield",58.865002,25.73,233,"EU","EE","EE-51","Nurmsi","no",,,"EENI",,,"https://en.wikipedia.org/wiki/Koigi_(air_base)","Koigi Air Base"
+30987,"EENI","closed","Nurmsi Airfield",58.865002,25.73,233,"EU","EE","EE-51","Nurmsi","no",,,,,,"https://en.wikipedia.org/wiki/Koigi_(air_base)","EENI, Koigi Air Base"
 548216,"EEPA","small_airport","Paslepa Airfield",59.018446,23.489258,,"EU","EE","EE-57","Paslepa","no",,,"EEPA",,,,
 538407,"EEPS","heliport","Paljassaare Heliport",59.457942,24.701042,,"EU","EE","EE-37","Tallinn","no",,,"EEPS",,,,
 2300,"EEPU","medium_airport","Pärnu Airport",58.41899871826172,24.47279930114746,47,"EU","EE","EE-67","Pärnu","yes","EEPU","EPU","EEPU",,,"https://en.wikipedia.org/wiki/P%C3%A4rnu_Airport",
-30323,"EERA","small_airport","Rapla Airfield",58.99028,24.716386,220,"EU","EE","EE-70","Rapla","no",,,"EERA",,"http://www.eera.ee/","https://en.wikipedia.org/wiki/Rapla_Airfield",
+30323,"EERA","small_airport","Rapla Airfield",58.99028,24.716386,220,"EU","EE","EE-70","Rapla","no","EERA",,"EERA",,"http://www.eera.ee/","https://en.wikipedia.org/wiki/Rapla_Airfield",
 317655,"EERD","small_airport","Riidaja Airfield",58.08457,25.89877,295,"EU","EE","EE-82","Riidaja","no","EERD",,"EERD",,,"https://en.wikipedia.org/wiki/Riidaja_Airfield#cite_note-2",
 30336,"EERI","small_airport","Ridali Airfield",57.939999,26.979,302,"EU","EE","EE-65","Suurküla","no","EERI",,"EERI",,,"https://en.wikipedia.org/wiki/Ridali_Airfield",
 30355,"EERU","small_airport","Ruhnu Airfield",57.78559,23.262377,10,"EU","EE","EE-74","Ringsu","yes","EERU",,"EERU",,,"https://en.wikipedia.org/wiki/Ruhnu_Airfield","Ruhnu island"
@@ -51870,7 +51873,7 @@
 326012,"PH-0105","small_airport","Samal (Bataan 2020) Airstrip",14.770725,120.506081,,"AS","PH","PH-BAN","Samal","no",,,,,,"https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines","Samal, Bataan 2020"
 326018,"PH-0106","closed","Santa Rosa Airstrip",15.384705,120.62434,155,"AS","PH","PH-TAR","Concepcion","no",,,,,,"https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines","Santa Rosa, Concepcion, VOA, Voice of America, RPSO"
 326019,"PH-0107","small_airport","Woodland Airpark",15.254326,120.677772,,"AS","PH","PH-PAM","Magalang","no",,,,,,"https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines","Woodland Airpark, Angeles City Flying Club"
-326020,"PH-0108","small_airport","Captain Mateo Capinpin Airstrip",14.53567,121.364572,,"AS","PH","PH-RIZ","Tanay","no",,,,,,"https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines#Military_airfields","Captain Mateo Capinpin"
+326020,"PH-0108","small_airport","Camp Capinpin Airstrip",14.53567,121.364572,1297,"AS","PH","PH-RIZ","Tanay","no","RPLM",,"RPLM",,,"https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines#Military_airfields","Captain Mateo Capinpin"
 326021,"PH-0109","small_airport","San Vicente Naval Airstrip",18.503785,122.148979,,"AS","PH","PH-CAG","Santa Ana","no",,,,,,"https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines#Military_airfields","San Vicente, Santa Ana"
 326024,"PH-0110","closed","Cabanatuan Airstrip (Camp Tinio)",15.486231,121.042396,,"AS","PH","PH-NUE","Cabanatuan","no",,,,,,"https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines#Military_airfields","Cabanatuan, Camp Tinio"
 326025,"PH-0111","closed","Canlubang Airstrip",14.22367,121.09927,,"AS","PH","PH-LAG","Calamba","no",,,,,,"https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines#Military_airfields","Canlubang, Calamba Airfield"
@@ -51920,7 +51923,7 @@
 326143,"PH-0155","closed","Findlay Millar Lumber Airstrip",8.11027,123.88301,3,"AS","PH","PH-LAN","Kolambugan","no",,,,,,,"Baybay, Titunud, Finlay Millar Lumber"
 326144,"PH-0156","small_airport","Refugio Airstrip",10.51524,123.447104,13,"AS","PH","PH-NEC","Calatrava","no",,,,,,,"Refugio"
 326145,"PH-0157","closed","San Carlos Community Airport [under construction]",10.508784,123.434358,10,"AS","PH","PH-NEC","Punao","no",,,,,,,"San Carlos, Punao"
-326146,"PH-0158","heliport","Wallace Air Force Station Heliport",16.619129,120.282753,,"AS","PH","PH-LUN","Poro Point (San Fernando)","no",,,,,,"https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines#Military_airfields","Wallace Air Force Station, Poro Point"
+326146,"PH-0158","heliport","Wallace Air Force Station Heliport",16.619112,120.282509,56,"AS","PH","PH-LUN","Poro Point (San Fernando)","no","RPLW",,"RPLW",,,"https://en.wikipedia.org/wiki/Naval_Station_Ernesto_Ogbinar#Wallace_Drone_Launch_Facility","Ernesto Ogbinar NAS"
 326186,"PH-0159","heliport","Balamban Heliport",10.470439,123.69704,,"AS","PH","PH-CEB","Balamban","no",,,,,,,"Balamban"
 326192,"PH-0160","heliport","BDO ATM – Steag Coal Power Plant Villanueva Heliport",8.565884,124.762319,,"AS","PH","PH-MSR","Villanueva","no",,,,,,,"Villaneuva, BDO ATM – Steag"
 326200,"PH-0161","heliport","Naval Station Romulo Espaldon Heliport",6.916128,122.038804,,"AS","PH","PH-ZMC","Zamboanga","no",,,,,,,"Headquarters Naval Forces Western Mindanao, Calarian, Zamboanga"
@@ -54041,20 +54044,20 @@
 324042,"RPLE","small_airport","Balesin Island Airport",14.419365,122.039402,25,"AS","PH","PH-BAS","Balesin","no","RPLE","BSI","RPLE",,,"https://en.wikipedia.org/wiki/Balesin_Island_Airport","RPBL"
 325947,"RPLH","medium_airport","Cagayan North International Airport",18.182388,121.745853,148,"AS","PH","PH-CAG","Lal-lo","no","RPLH","LLC","RPLH",,,"https://en.wikipedia.org/wiki/Cagayan_North_International_Airport","Northern Cagayan, Lal-lo"
 5688,"RPLI","medium_airport","Laoag International Airport",18.176121,120.531034,25,"AS","PH","PH-ILN","Laoag City","yes","RPLI","LAO","RPLI",,,"https://en.wikipedia.org/wiki/Laoag_International_Airport","Gabu Airfield, Laoag Airfield"
-32220,"RPLJ","small_airport","Jomalig Island Airport",14.704161,122.331133,36,"AS","PH","PH-QUE","Jomalig","no",,,"RPLJ",,,"https://en.wikipedia.org/wiki/Jomalig_Airport","Jomalig"
+32220,"RPLJ","small_airport","Jomalig Island Airport",14.704161,122.331133,36,"AS","PH","PH-QUE","Jomalig","no","RPLJ",,"RPLJ",,,"https://en.wikipedia.org/wiki/Jomalig_Airport","Jomalig"
 336104,"RPLK","medium_airport","Bicol International Airport",13.111915,123.676829,319,"AS","PH","PH-ALB","Legazpi","yes","RPLK","DRP","RPLK",,"https://caap.gov.ph/bicol-international-airport/","https://en.wikipedia.org/wiki/Bicol_International_Airport","Daraga"
 5689,"RPLL","large_airport","Ninoy Aquino International Airport",14.5086,121.019997,75,"AS","PH","PH-00","Manila (Pasay)","yes","RPLL","MNL","RPLL",,,"https://en.wikipedia.org/wiki/Ninoy_Aquino_International_Airport","Manila International Airport, Jesus Villamor Air Base"
-46514,"RPLN","small_airport","Palanan Community Airport",17.065667,122.427671,52,"AS","PH","PH-ISA","Palanan","yes",,,"RPLN",,,"https://en.wikipedia.org/wiki/Palanan_Airport","RPPA, Palanan"
+46514,"RPLN","small_airport","Palanan Community Airport",17.065667,122.427671,52,"AS","PH","PH-ISA","Palanan","yes","RPLN",,"RPLN",,,"https://en.wikipedia.org/wiki/Palanan_Airport","RPPA, Palanan"
 30869,"RPLO","small_airport","Cuyo Airport",10.8581,121.069,,"AS","PH","PH-PLW","Cuyo","yes","RPLO","CYU","RPLO",,,"https://en.wikipedia.org/wiki/Cuyo_Airport",
-336813,"RPLQ","small_airport","Colonel Ernesto Rabina Air Base",15.317683,120.422891,,"AS","PH","PH-TAR","Capas","no",,,"RPLQ",,,,"Crow Valley Gunnery Range"
-46549,"RPLR","small_airport","Carmen (Rosales) Airstrip",15.884074,120.601237,,"AS","PH","PH-PAN","Rosales","no",,,"RPLR",,,"https://en.wikipedia.org/wiki/Rosales_Airport",
+336813,"RPLQ","small_airport","Colonel Ernesto Rabina Air Base",15.317683,120.422891,564,"AS","PH","PH-TAR","Capas","no","RPLQ",,"RPLQ",,,"https://en.wikipedia.org/wiki/Colonel_Ernesto_Rabina_Air_Base","Crow Valley Gunnery Range"
+46549,"RPLR","small_airport","Carmen (Rosales) Airstrip",15.885047,120.604602,,"AS","PH","PH-PAN","Rosales","no","RPLR",,"RPLR",,,"https://en.wikipedia.org/wiki/Rosales_Airport",
 5691,"RPLS","medium_airport","Danilo Atienza Air Base",14.4954,120.903999,8,"AS","PH","PH-CAV","Cavite","no","RPLS","SGL","RPLS",,,"https://en.wikipedia.org/wiki/Danilo_Atienza_Air_Base","NSP, Sangley Point Air Base, Sangley Point International Airport"
-32221,"RPLT","medium_airport","Itbayat Jorge Abad Airport",20.722521,121.809969,328,"AS","PH","PH-BTN","Itbayat","yes",,,"RPLT",,,"https://en.wikipedia.org/wiki/Jorge_Abad_Airport","Irport nu Jorge Abad, Paliparang Jorge Abad, Pagtayaban ti Jorge Abad"
+32221,"RPLT","medium_airport","Itbayat Jorge Abad Airport",20.722521,121.809969,328,"AS","PH","PH-BTN","Itbayat","yes","RPLT",,"RPLT",,,"https://en.wikipedia.org/wiki/Jorge_Abad_Airport","Irport nu Jorge Abad, Paliparang Jorge Abad, Pagtayaban ti Jorge Abad"
 5692,"RPLU","medium_airport","Lubang Airport",13.8554,120.105003,43,"AS","PH","PH-MDC","Lubang","no","RPLU","LBX","RPLU",,,"https://en.wikipedia.org/wiki/Lubang_Airport",
-5693,"RPLV","small_airport","Fort Magsaysay Airport",15.4347,121.091003,200,"AS","PH","PH-NUE","Santa Rosa","no",,,"RPLV",,,"https://en.wikipedia.org/wiki/Fort_Magsaysay","Fort Magsaysay"
-32222,"RPLX","small_airport","Corregidor Airport (Kindley Field)",14.3913,120.607002,102,"AS","PH","PH-CAV","Corregidor","no",,,"RPLX",,,,
-32223,"RPLY","small_airport","Alabat Island Airport",14.232,121.929001,6,"AS","PH","PH-QUE","Perez","no",,,"RPLY",,,,
-42465,"RPLZ","small_airport","Bacon Community Airport",13.006983,124.025731,120,"AS","PH","PH-SOR","Sorsogon","no",,,"RPLZ",,,,
+5693,"RPLV","small_airport","Fort Magsaysay Airport",15.4347,121.091003,200,"AS","PH","PH-NUE","Santa Rosa","no","RPLV",,"RPLV",,,"https://en.wikipedia.org/wiki/Fort_Magsaysay","Fort Magsaysay"
+32222,"RPLX","small_airport","Corregidor Airport (Kindley Field)",14.3913,120.607002,102,"AS","PH","PH-CAV","Corregidor","no","RPLX",,"RPLX",,,"https://en.wikipedia.org/wiki/Corregidor#Tailside",
+32223,"RPLY","small_airport","Alabat Island Airport",14.2329,121.929118,6,"AS","PH","PH-QUE","Perez","no","RPLY",,"RPLY",,,,
+42465,"RPLZ","small_airport","Bacon Community Airport",13.00696,124.025942,120,"AS","PH","PH-SOR","Sorsogon","no","RPLZ",,"RPLZ",,,,
 5694,"RPMA","medium_airport","Allah Valley Airport",6.367903,124.752431,659,"AS","PH","PH-SCO","Surallah","no","RPMA","AAV","RPMA",,,"https://en.wikipedia.org/wiki/Allah_Valley_Airport","Alah Valley Airport"
 5695,"RPMB","medium_airport","Rajah Buayan Air Base",6.10644,125.235001,28,"AS","PH","PH-SCO","General Santos City","no",,,"RPMB",,,"https://en.wikipedia.org/wiki/Rajah_Buayan_Air_Station","GES, Paliparang Pandaigdig ng Heneral Santos, Tugpahanang Internasyonal sa Heneral Santos"
 5696,"RPMC","medium_airport","Cotabato (Awang) Airport",7.164753,124.209938,189,"AS","PH","PH-MDN","Datu Odin Sinsuat","yes","RPMC","CBO","RPMC",,,"https://en.wikipedia.org/wiki/Cotabato_Airport","Awang, Kutawatu"
@@ -54123,7 +54126,7 @@
 5739,"RPVI","medium_airport","Iloilo International Airport",10.833017,122.493358,27,"AS","PH","PH-ILI","Cabatuan","yes","RPVI","ILO","RPVI",,,"https://en.wikipedia.org/wiki/Iloilo_International_Airport",
 5740,"RPVJ","medium_airport","Moises R. Espinosa Airport",12.369682,123.630095,49,"AS","PH","PH-MAS","Masbate","yes","RPVJ","MBT","RPVJ",,,"https://en.wikipedia.org/wiki/Masbate_Airport","Masbate, Moises R. Espinoza"
 5741,"RPVK","medium_airport","Kalibo International Airport",11.679400444,122.375999451,14,"AS","PH","PH-AKL","Kalibo","yes","RPVK","KLO","RPVK",,,"https://en.wikipedia.org/wiki/Kalibo_International_Airport",
-32232,"RPVL","small_airport","Wasig Airport",12.534661,121.482803,17,"AS","PH","PH-MDR","Mansalay","no",,,"RPLG",,,,
+32232,"RPVL","small_airport","Wasig Airport",12.534338,121.482848,17,"AS","PH","PH-MDR","Mansalay","no","RPLG",,"RPLG",,,,
 5742,"RPVM","large_airport","Mactan Cebu International Airport",10.309261,123.97974,31,"AS","PH","PH-CEB","Lapu-Lapu City","yes","RPVM","CEB","RPVM",,"http://www.mactan-cebuairport.com.ph/","https://en.wikipedia.org/wiki/Mactan-Cebu_International_Airport","Mactan Air Base, Opon Airfield"
 5743,"RPVO","medium_airport","Ormoc Airport",11.057715,124.565622,83,"AS","PH","PH-LEY","Ormoc City","no","RPVO","OMC","RPVO",,,"https://en.wikipedia.org/wiki/Ormoc_Airport",
 5744,"RPVP","medium_airport","Puerto Princesa International Airport / PAF Antonio Bautista Air Base",9.74212,118.759003,71,"AS","PH","PH-PLW","Puerto Princesa","yes","RPVP","PPS","RPVP",,,"https://en.wikipedia.org/wiki/Puerto_Princesa_Airport",
@@ -73075,7 +73078,7 @@
 348123,"US-5358","small_airport","Roan Cliffs Airstrip",39.53821,-110.24437,9606,"NA","US","US-UT","Sunnyside","no",,,,,,,
 348124,"US-5359","small_airport","Ekker Ranch Airport",38.29312,-110.35952,5799,"NA","US","US-UT","Hanksville","no",,,,,,,"Robbers Roost"
 348125,"US-5360","small_airport","Rockland Ranch Airstrip",38.22033,-109.46467,5910,"NA","US","US-UT","Moab","no",,,,,,,
-348126,"US-5361","small_airport","Rustler Canyon Airstrip",38.27581,-109.72945,4669,"NA","US","US-UT","Monticello","no",,,,,,,
+348126,"US-5361","small_airport","Rustler Canyon Airstrip",38.27581,-109.72945,4669,"NA","US","US-UT","Monticello","no",,,"09UT","09UT","https://utahbackcountrypilots.org/airstrips/RUSTLERCANYON",,
 348127,"US-5362","small_airport","Seeley Cabin Airstrip",39.7897,-109.2643,6250,"NA","US","US-UT","Jensen","no",,,,,,,
 348128,"US-5363","small_airport","Seep Ridge Airstrip",39.4964,-109.3386,7888,"NA","US","US-UT","Thompson Springs","no",,,,,,,
 348129,"US-5364","small_airport","Slate Creek Airstrip",37.9852,-110.6511,5500,"NA","US","US-UT","Hite","no",,,,,,,
