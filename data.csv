@@ -1014,6 +1014,7 @@
 7572,"0TX4","heliport","Aerospatiale Helicopter Corp Heliport",32.711700439453125,-97.0271987915039,535,"NA","US","US-TX","Grand Prairie","no",,,"0TX4","0TX4",,,
 7573,"0TX5","heliport","Shiloh Heliport",33.023382,-97.120589,635,"NA","US","US-TX","Flower Mound","no",,,"0TX5","0TX5",,,"shiloh airport, shiloh heliport"
 7574,"0TX6","small_airport","Elm Creek Airpark",29.505199432373047,-97.99690246582031,550,"NA","US","US-TX","Seguin","no",,,"0TX6","0TX6",,,
+609906,"0TX8","small_airport","Landing Zone Mustang",31.252425,-96.634836,475,"NA","US","US-TX","Kosse","no",,,"0TX8","0TX8",,,
 7577,"0TX9","small_airport","Card Aerodrome",33.250099182128906,-96.11689758300781,540,"NA","US","US-TX","Greenville","no",,,"0TX9","0TX9",,,
 7578,"0U0","small_airport","Landmark US Forest Service Airport",44.642399,-115.532997,6662,"NA","US","US-ID","Landmark","no",,,"K0U0","0U0",,,
 7579,"0U1","small_airport","Warm Springs Creek Airport",44.142093,-115.314312,4831,"NA","US","US-ID","Lowman","no",,,"K0U1","0U1",,,
@@ -2052,7 +2053,7 @@
 8681,"1TN4","heliport","Methodist Healthcare Heliport",36.049329,-89.380215,312,"NA","US","US-TN","Dyersburg","no",,,"1TN4","1TN4",,,
 8682,"1TN5","heliport","Maury Regional Hospital Heliport",35.55619812011719,-87.05390167236328,651,"NA","US","US-TN","Columbia","no",,,"1TN5","1TN5",,,
 608761,"1TN6","heliport","Med Trans Heliport",35.879519,-84.742867,1442,"NA","US","US-TN","Rockwood","no",,,"1TN6","1TN6",,,
-8684,"1TN7","heliport","Brendle's Heliport",36.54790115356445,-82.52239990234375,1210,"NA","US","US-TN","Kingsport","no",,,"1TN7","1TN7",,,
+8684,"1TN7","closed","Brendle's Heliport",36.547901,-82.5224,1210,"NA","US","US-TN","Kingsport","no",,,,,,,"1TN7"
 8685,"1TN8","heliport","Ramada Helistop",36.56679916381836,-82.5165023803711,1275,"NA","US","US-TN","Kingsport","no",,,"1TN8","1TN8",,,
 349117,"1TN9","small_airport","Crumley Field",36.504337,-82.183045,1565,"NA","US","US-TN","Bristol","no",,,"1TN9","1TN9",,,
 8687,"1TS0","small_airport","Eagle Air Airport",29.6705,-94.670799,8,"NA","US","US-TX","Anahuac","no",,,"1TS0","1TS0",,,
@@ -3165,7 +3166,7 @@
 9806,"2TX0","small_airport","Blue Sky Airfield",35.062604,-101.850421,3615,"NA","US","US-TX","Amarillo","no",,,"2TX0","2TX0",,,
 9807,"2TX1","small_airport","Russell Paradise Airport",29.22865,-98.384046,535,"NA","US","US-TX","Elmendorf","no",,,"2TX1","2TX1",,,
 9808,"2TX2","small_airport","Ray Smith Farm Airport",32.0265007019043,-98.01000213623047,1050,"NA","US","US-TX","Hico","no",,,"2TX2","2TX2",,,
-9809,"2TX3","small_airport","La Fonda Ranch Airport",29.216899871826172,-100.61699676513672,1020,"NA","US","US-TX","Brackettville","no",,,"2TX3","2TX3",,,
+9809,"2TX3","closed","La Fonda Ranch Airport",29.220643,-100.61622,1020,"NA","US","US-TX","Brackettville","no",,,,,,,"2TX3"
 9810,"2TX4","small_airport","Lewis Ranch Airport",27.983600616455078,-99.37670135498047,540,"NA","US","US-TX","Encinal","no",,,"2TX4","2TX4",,,
 9811,"2TX5","small_airport","Berry Airport",31.453500747680664,-97.75140380859375,757,"NA","US","US-TX","Gatesville","no",,,"2TX5","2TX5",,,
 9812,"2TX6","small_airport","Everitt Airport",33.681800842285156,-101.66799926757812,3200,"NA","US","US-TX","Idalou","no",,,"2TX6","2TX6",,,
@@ -3600,6 +3601,7 @@
 10208,"36TE","heliport","Houston Police Department Northwest Heliport",29.857422,-95.539819,101,"NA","US","US-TX","Houston","no",,,"36TE","36TE",,,"Northwest Police Station Number 5 Heliport"
 10209,"36TN","small_airport","Ruckman Field",36.471847,-87.135674,660,"NA","US","US-TN","Clarksville","no",,,"36TN","36TN",,,
 10210,"36TS","heliport","4BH Heliport",30.71691,-97.77673,920,"NA","US","US-TX","Georgetown","no",,,"36TS","36TS",,,
+609883,"36TT","small_airport","Skyview 360 Airport",30.486922,-98.485287,1428,"NA","US","US-TX","Round Mountain","no",,,"36TT","36TT",,,"https://www.airnav.com/airport/36TT"
 10211,"36TX","closed","Bevoni-Flying B Airport",33.720901,-96.861397,763,"NA","US","US-TX","Sadler","no",,,,,,,"36TX"
 345392,"36UT","heliport","Park City Regional Medical Center Heliport",40.687822,-111.470627,6759,"NA","US","US-UT","Park City","no",,,"36UT","36UT",,,
 10212,"36VA","heliport","Carilion Westlake Center Heliport",37.115957,-79.718,990,"NA","US","US-VA","Hardy","no",,,"36VA","36VA",,,
@@ -3911,6 +3913,7 @@
 10513,"3IL6","heliport","Pinckneyville Correctional Center Heliport",38.08330154418945,-89.31999969482422,463,"NA","US","US-IL","Pinckneyville","no",,,"3IL6","3IL6",,,
 10516,"3IL9","small_airport","Alekat Acres Airport",40.281024,-89.312593,600,"NA","US","US-IL","Atlanta","no",,,,"3IL9",,,"3IL9, Sugar Creek Farm"
 345477,"3IN0","small_airport","Flying M Airport",41.558732,-87.125933,640,"NA","US","US-IN","Portage","no",,,"3IN0","3IN0",,,
+609904,"3IN1","small_airport","Weimer Field",39.819266,-85.569015,990,"NA","US","US-IN","Knightstown","no",,,"3IN1","3IN1",,,
 10520,"3IN5","small_airport","Pippenger Airport",41.316898345947266,-85.37139892578125,980,"NA","US","US-IN","Albion","no",,,"3IN5","3IN5",,,
 10521,"3IN6","small_airport","Holloway Field",38.588333,-85.505833,750,"NA","US","US-IN","New Washington","no",,,"3IN6","3IN6",,,
 10522,"3IN7","small_airport","Chain-O-Lakes Airport",41.661243,-86.353183,743,"NA","US","US-IN","South Bend","no",,,"3IN7","3IN7",,,
@@ -3940,7 +3943,7 @@
 10545,"3KS7","small_airport","Berwick Airport",37.828227,-97.349296,1400,"NA","US","US-KS","Valley Center","no",,,"3KS7","3KS7",,,
 10546,"3KS8","small_airport","Reed-Wilsonton Airport",37.256500244140625,-95.33360290527344,920,"NA","US","US-KS","Altamont","no",,,"3KS8","3KS8",,,
 332502,"3KS9","small_airport","Tri Rotor Airport",37.726869,-101.195288,3091,"NA","US","US-KS","Ulysses","no",,,"3KS9","3KS9",,,
-10548,"3KY1","small_airport","Goode Airpark",37.64139938354492,-87.13169860839844,395,"NA","US","US-KY","Utica","no",,,"3KY1","3KY1",,,
+10548,"3KY1","closed","Goode Airpark",37.643755,-87.132285,395,"NA","US","US-KY","Utica","no",,,,,,,"3KY1"
 10550,"3KY3","small_airport","Mason Valley Airport",38.038299560546875,-85.3593978881836,510,"NA","US","US-KY","Taylorsville","no",,,"3KY3","3KY3",,,
 10551,"3KY4","small_airport","Craw Daddy Landing Airport",38.67279815673828,-85.18280029296875,460,"NA","US","US-KY","Carrollton","no",,,"3KY4","3KY4",,,
 10552,"3KY5","heliport","Carroll County Hospital Heliport",38.680497,-85.168043,480,"NA","US","US-KY","Carrollton","no",,,"3KY5","3KY5",,,
@@ -5298,7 +5301,7 @@
 346673,"51NH","small_airport","Blue Puffin Farm Heliport",43.174782,-71.282843,863,"NA","US","US-NH","Deerfield","no",,,"51NH","51NH",,,
 11882,"51NJ","heliport","Germania Heliport",39.5010439498,-74.60845470430002,65,"NA","US","US-NJ","Cologne","no",,,"51NJ","51NJ",,,
 299727,"51NK","heliport","The Moriches Bay Heliport",40.7992302243,-72.7628991008,5,"NA","US","US-NY","East Moriches","no",,,"51NK","51NK",,,
-11884,"51OH","small_airport","Agner Airport",41.0703010559082,-84.0863037109375,740,"NA","US","US-OH","Ottawa","no",,,"51OH","51OH",,,
+11884,"51OH","closed","Agner Airport",41.070301,-84.086304,740,"NA","US","US-OH","Ottawa","no",,,,,,,"51OH"
 11885,"51OI","closed","Clay's RV Airport",40.855099,-81.598999,1035,"NA","US","US-OH","Canal Fulton","no",,,,,,,"51OI"
 11886,"51OK","small_airport","Eagle Creek Airport",35.793611,-96.029722,740,"NA","US","US-OK","Beggs","no",,,"51OK","51OK",,,
 11887,"51OR","heliport","Pge Heliport",44.99959945678711,-122.97699737548828,182,"NA","US","US-OR","Salem","no",,,"51OR","51OR",,,
@@ -7120,6 +7123,7 @@
 13733,"72ND","small_airport","Berg Field",47.66109848022461,-97.59200286865234,1111,"NA","US","US-ND","Northwood","no",,,"72ND","72ND",,,
 537462,"72NH","seaplane_base","Barndoor Island Seaplane Base",43.553853,-71.232264,504,"NA","US","US-NH","Alton","no",,,"72NH","72NH",,,
 13736,"72NM","small_airport","Otero Mill Airport",32.95840072631836,-105.96299743652344,4603,"NA","US","US-NM","La Luz","no",,,"72NM","72NM",,,
+609924,"72OH","small_airport","No Fly Zone Airport",40.035334,-84.077344,1006,"NA","US","US-OH","Casstown","no",,,"72OH","72OH",,,
 13740,"72OK","heliport","Jay Heliport",36.42238,-94.80418,1032,"NA","US","US-OK","Jay","no",,,"72OK","72OK",,,
 13741,"72OR","small_airport","Ochs Private Airport",44.7843017578125,-120.95500183105469,1790,"NA","US","US-OR","Madras","no",,,"72OR","72OR",,,
 13742,"72PA","heliport","York Electro-Panel Psnl Use Heliport",40.03340148925781,-76.66639709472656,482,"NA","US","US-PA","York","no",,,"72PA","72PA",,,
@@ -9334,7 +9338,7 @@
 15906,"9OK1","heliport","Oklahoma Medical Center Heliport",35.481196,-97.502711,1240,"NA","US","US-OK","Oklahoma City","no",,,"9OK1","9OK1",,,"OMH"
 15907,"9OK2","heliport","Pawnee Municipal Hospital Heliport",36.33340072631836,-96.80030059814453,925,"NA","US","US-OK","Pawnee","no",,,"9OK2","9OK2",,,
 15908,"9OK3","small_airport","Flying Eagle Estates Airport",36.70370101928711,-95.84049987792969,690,"NA","US","US-OK","Bartlesville","no",,,"9OK3","9OK3",,,
-15910,"9OK5","small_airport","Diamond C Ranch Airport",34.77830123901367,-96.92749786376953,1140,"NA","US","US-OK","Stratford","no",,,"9OK5","9OK5",,,
+15910,"9OK5","closed","Diamond C Ranch Airport",34.778301,-96.927498,1140,"NA","US","US-OK","Stratford","no",,,,,,,"9OK5"
 15911,"9OK6","heliport","Community Hospital Lakeview Heliport",35.3109016418457,-95.5907974243164,640,"NA","US","US-OK","Eufaula","no",,,"9OK6","9OK6",,,
 15912,"9OK7","small_airport","Cimarron Strip",36.184799194336,-96.550300598145,920,"NA","US","US-OK","Jennings","no",,,,"9OK7",,,"9OK7"
 15915,"9OR0","small_airport","Lafferty Field",44.315101623535156,-123.0250015258789,360,"NA","US","US-OR","Brownsville","no",,,"9OR0","9OR0",,,
@@ -17904,6 +17908,16 @@
 609694,"CA-1271","small_airport","Baie St Paul Field",47.432297,-70.494204,,"NA","CA","CA-U-A","Baie St Paul","no",,,,,,,
 609788,"CA-1272","small_airport","Ted Smith Farm",51.383057,-114.199412,,"NA","CA","CA-AB","Crossfield","no",,,,,,,
 609806,"CA-1273","small_airport","New Woodlands Airport",50.158947,-97.59128,820,"NA","CA","CA-MB","Warren","no",,,,,,,
+609910,"CA-1274","closed","Provincial Motorgliding and Soaring Association Field",43.893822,-78.740467,,"NA","CA","CA-ON","Oshawa","no",,,,,,,
+609911,"CA-1275","closed","Pioneer Soaring Club Field",44.161764,-79.795675,,"NA","CA","CA-ON","Alliston","no",,,,,,,
+609913,"CA-1276","closed","Erin Soaring Society Field",43.766379,-80.040464,,"NA","CA","CA-ON","Erin","no",,,,,,,
+609914,"CA-1277","closed","Caledon Gliding Club Field",43.80734,-80.062308,,"NA","CA","CA-ON","Caledon","no",,,,,,,
+609915,"CA-1278","closed","Huronia Soaring Association Field",44.760874,-80.098014,,"NA","CA","CA-ON","Lafontaine","no",,,,,,,
+609916,"CA-1279","closed","Algoma Soaring Club Field",46.356226,-84.036055,,"NA","CA","CA-ON","Desbarats","no",,,,,,,
+609917,"CA-1280","small_airport","Pineview Airpark",48.393357,-89.583796,,"NA","CA","CA-ON","Kakabeka Falls","no",,,,,,,
+609918,"CA-1281","closed","Red River Soaring Association Field",49.540804,-97.092018,,"NA","CA","CA-MB","Ste Agathe","no",,,,,,,
+609919,"CA-1282","closed","Pigeon Lake Airport",49.978024,-97.666225,,"NA","CA","CA-MB","Pigeon Lake","no",,,,,,,
+609920,"CA-1283","closed","Port Alberni Airport",49.25992,-124.832475,,"NA","CA","CA-BC","Port Alberni","no",,,,,,,
 43086,"CA-CAB5","heliport","Abbotsford (Regional Hospital & Cancer Centre) Heliport",49.0361500085,-122.314048558,287,"NA","CA","CA-BC","Abbotsford","no",,,"CAB5","CAB5",,,
 16531,"CA00","heliport","Platform Hermosa Heliport",34.455299377441406,-120.64700317382812,152,"NA","US","US-CA","Lompoc","no",,,"CA00","CA00",,,
 16532,"CA01","heliport","Burney Sheriff's Station Heliport",40.885121,-121.669368,3127,"NA","US","US-CA","Burney","no",,,"CA01","CA01",,,
@@ -21016,7 +21030,7 @@
 598276,"CY-0089","small_airport","Unmanned Systems Research Laboratory (USRL) Runway",35.095038,33.08165,,"AS","CY","CY-02","Orounta","no",,,,,,,
 605118,"CY-0090","heliport","Athienou Helipad",35.080933,33.509089,,"AS","CY","CY-04","Athienou","no",,,,,,,
 605119,"CY-0091","heliport","Troulloi Helipad",35.042265,33.634847,,"AS","CY","CY-04","Troulloi","no",,,,,,,
-609877,"CY-0092","small_airport","Аэропорт İlker Karter",35.274937,33.272019,771,"AS","CY","CY-01","Кирения","no",,,,,,,
+609877,"CY-0092","small_airport","(Duplicate)Аэропорт İlker Karter",35.274937,33.272019,771,"AS","CY","CY-01","Кирения","no",,,,,,,
 46596,"CYAB","small_airport","Arctic Bay Airport",73.006101,-85.04616,72,"NA","CA","CA-NU","Arctic Bay","yes","CYAB","YAB","CYAB",,,"https://en.wikipedia.org/wiki/Arctic_Bay_Airport","CJX7"
 1652,"CYAC","small_airport","Cat Lake Airport",51.7272,-91.824402,1344,"NA","CA","CA-ON","Cat Lake","yes","CYAC","YAC","CYAC",,,"https://en.wikipedia.org/wiki/Cat_Lake_Airport",
 1653,"CYAD","small_airport","La Grande-3 Airport",53.5717010498,-76.19640350339999,775,"NA","CA","CA-QC","La Grande-3","no","CYAD","YAR","CYAD","YAD",,"https://en.wikipedia.org/wiki/La_Grande-3_Airport","YAD"
@@ -24915,7 +24929,7 @@
 315469,"ES-0020","small_airport","Aeròdrom de Pals",42.0069903,3.1519175,,"EU","ES","ES-CT",,"no",,,,,,,
 315470,"ES-0021","small_airport","Aeròdrom d'Avinyonet",41.367985,1.766867,,"EU","ES","ES-CT","Avinyó Nou","no",,,,,,,
 315474,"ES-0022","small_airport","ULM de Dolores",38.1573628,-0.7779122,,"EU","ES","ES-VC",,"no",,,,,,,
-315661,"ES-0023","heliport","Basa Aérea de Valencia-Bétera",39.62447,-0.472576,414,"EU","ES","ES-VC","Bétera","no",,,"LEBT",,,"https://de.wikipedia.org/wiki/Helipuerto_B%C3%A9tera-Valencia",
+315661,"ES-0023","heliport","Basa Aérea de Valencia-Bétera",39.62447,-0.472576,414,"EU","ES","ES-VC","Bétera","no","LEBT",,"LEBT",,,"https://de.wikipedia.org/wiki/Helipuerto_B%C3%A9tera-Valencia",
 315715,"ES-0024","small_airport","Ultralight Aeroclub Müller",37.26076,-1.85236,,"EU","ES","ES-AN","Vera","no",,,,,,,
 315858,"ES-0025","small_airport","Aerodromo de Figueira dos Cavaleiros",38.077502,-8.235832,262,"EU","PT","PT-02","Ferreira do Alentejo","no",,,"LPFC",,"http://www.samag.pt/",,
 315868,"ES-0026","small_airport","Camp de Vol de Palafolls",41.687222,2.748056,,"EU","ES","ES-CT",,"no",,,,,,,
@@ -25111,7 +25125,7 @@
 321704,"ES-0217","small_airport","Benejama UL",38.696193,-0.744936,1985,"EU","ES","ES-VC","Beneixama","no",,,,,,,
 321706,"ES-0218","small_airport","Alto Vinalopó Biar Benejama",38.684431,-0.760295,1936,"EU","ES","ES-VC","Beneixama","no",,,,,,,
 321718,"ES-0219","small_airport","Aeródromo de Camarenilla",40.024702,-4.071202,1742,"EU","ES","ES-CM","Camarenilla","no",,,"LERN",,"http://www.volarenavioneta.es",,
-321719,"ES-0220","small_airport","Campo de Vuelo Bañeres de Mariola",38.671077,-0.631257,3117,"EU","ES","ES-VC","Banyeres de Mariola","no",,,,,,,
+321719,"ES-0220","closed","Campo de Vuelo Bañeres de Mariola",38.671077,-0.631257,3117,"EU","ES","ES-VC","Banyeres de Mariola","no",,,,,,,
 321727,"ES-0221","small_airport","Ruidera2",39.02495,-2.911927,2871,"EU","ES","ES-CM","Ruidera","no",,,,,,,
 321728,"ES-0222","small_airport","Pista forestal de Fuencaliente",38.5264323,-4.389622,2674,"EU","ES","ES-CM","Fuencaliente","no",,,,,,,
 321741,"ES-0223","heliport","Almagro Helicopter Airbase",38.952096,-3.741126,2067,"EU","ES","ES-CM","Almagro","no","LEAO",,"LEAO",,,"https://en.wikipedia.org/wiki/Spanish_Army_Airmobile_Force",
@@ -25275,6 +25289,7 @@
 609758,"ES-0382","heliport","Lomba Forest Fire Base Heliport",42.969077,-8.868868,950,"EU","ES","ES-GA","Santa Comba","no","LELK",,"LELK",,,"https://gl.wikipedia.org/wiki/Heliportos_de_Galicia",
 609759,"ES-0383","heliport","Portomarin Forest Fire Base Heliport",42.81316,-7.61962,1560,"EU","ES","ES-GA","Portomarin, Galicia, Spain","no","LEIN",,,,,"https://gl.wikipedia.org/wiki/Heliportos_de_Galicia",
 609761,"ES-0384","heliport","Campiño Forest Fire Base Heliport",42.40801,-8.5878,1163,"EU","ES","ES-GA","Pontevedra","no",,,,,,"https://gl.wikipedia.org/wiki/Heliportos_de_Galicia",
+609894,"ES-0385","small_airport","Campo de Vuelo Aliaguilla",39.7585,-1.33642,,"EU","ES","ES-CM",,"no","LEAK",,,,,,
 599574,"ESAN","heliport","Norra Alvsborgs County Hospital Heliport",58.319006,12.26819,312,"EU","SE","SE-Q","Trollhättan","no","ESEN",,"ESAN","NAL",,,
 2643,"ESCF","medium_airport","Malmen Air Base",58.397666,15.522422,308,"EU","SE","SE-E","Linköping","no","ESCF",,"ESCF",,,"https://en.wikipedia.org/wiki/Malmen_Airbase",
 2645,"ESCM","small_airport","Ärna Air Base",59.897301,17.5886,68,"EU","SE","SE-C","Uppsala","no","ESCM",,"ESCM",,,"https://en.wikipedia.org/wiki/%C3%84rna",
@@ -30676,7 +30691,7 @@
 17623,"HI01","small_airport","Princeville Airport",22.209313,-159.44515,344,"OC","US","US-HI","Hanalei","no",,"HPV","HI01","HI01",,"https://en.wikipedia.org/wiki/Princeville_Airport",
 17625,"HI03","small_airport","Hanamaulu Airstrip",22.041896,-159.388746,404,"OC","US","US-HI","Hanamaulu","no",,,"HI03","HI03",,,
 17626,"HI04","heliport","Hilo Medical Center Heliport",19.718464,-155.114422,487,"OC","US","US-HI","Hilo","no",,,"HI04","HI04",,,
-17627,"HI05","closed","Honokaa Airstrip",20.08334,-155.502252,1440,"OC","US","US-HI","Honokaa, Hawaiʻi","no",,,,,,,"HI05"
+17627,"HI05","closed","Honokaa Airstrip",20.08334,-155.502252,1440,"OC","US","US-HI","Honokaa","no",,,,,,,"HI05"
 17628,"HI07","heliport","Waikoloa Heliport",19.920546,-155.860628,119,"OC","US","US-HI","Waikoloa Village","no",,"WKL","HI07","HI07",,,
 17629,"HI09","heliport","Honolulu Municipal Building Heliport",21.304213,-157.854802,231,"OC","US","US-HI","Honolulu","no",,,"HI09","HI09",,,
 17630,"HI12","heliport","Kahuku Medical Center Heliport",21.676956,-157.955166,40,"OC","US","US-HI","Kahuku, O'ahu","no",,,,,,,"HI12, K6YR1"
@@ -38018,7 +38033,7 @@
 18624,"K2S8","small_airport","Wilbur Airport",47.75419998168945,-118.74299621582031,2182,"NA","US","US-WA","Wilbur","no",,,"K2S8","2S8",,,
 18625,"K2S9","small_airport","Willapa Harbor Airport",46.697601,-123.822998,13,"NA","US","US-WA","South Bend/Raymond/","no",,,"K2S9","2S9",,"https://en.wikipedia.org/wiki/Willapa_Harbor_Airport",
 18626,"K2T1","small_airport","Muleshoe Municipal Airport",34.18510055541992,-102.64099884033203,3779,"NA","US","US-TX","Muleshoe","no",,,"K2T1","2T1",,,
-18629,"K2V5","small_airport","Wray Municipal Airport",40.10029984,-102.2409973,3667,"NA","US","US-CO","Wray","no",,,"K2V5","2V5",,,
+18629,"K2V5","small_airport","Wray Municipal Airport",40.1003,-102.240997,3667,"NA","US","US-CO","Wray","no","KRYA",,"KRYA","RYA",,,"2V5"
 18630,"K2V6","small_airport","Yuma Municipal Airport",40.104198,-102.712997,4136,"NA","US","US-CO","Yuma","no",,,"K2V6","2V6",,"https://en.wikipedia.org/wiki/Yuma_Municipal_Airport",
 18631,"K2W5","small_airport","Maryland Airport",38.596572,-77.072639,170,"NA","US","US-MD","Indian Head","no",,,"K2W5","2W5",,"https://en.wikipedia.org/wiki/Maryland_Airport",
 18632,"K2W6","small_airport","St. Mary's County Regional Airport",38.315399,-76.550102,142,"NA","US","US-MD","California","no",,"LTW",,"2W6",,"https://en.wikipedia.org/wiki/St._Mary's_County_Regional_Airport",
@@ -43499,19 +43514,19 @@
 4003,"LEBG","medium_airport","Burgos Airport",42.357601,-3.62076,2962,"EU","ES","ES-CL","Burgos","no","LEBG","RGS","LEBG",,"https://www.aena.es/en/burgos.html","https://en.wikipedia.org/wiki/Burgos_Airport",
 4004,"LEBL","large_airport","Josep Tarradellas Barcelona-El Prat Airport",41.2971,2.07846,12,"EU","ES","ES-CT","Barcelona","yes","LEBL","BCN","LEBL",,"https://www.aena.es/en/josep-tarradellas-barcelona-el-prat.html","https://en.wikipedia.org/wiki/Barcelona%E2%80%93El_Prat_Airport","El Prat Airport,Barcelona International,Josep Tarradellas Barcelona-El Prat Airport"
 43239,"LEBP","heliport","BP Oil España Heliport",39.9579,-0.011632,12,"EU","ES","ES-VC","Castellón de La Plana","no","LEBP",,"LEBP",,,"https://de.wikipedia.org/wiki/BP_Oil_Espa%C3%B1a_Heliport",
-550443,"LEBS","heliport","Can Bonastre Wine Resort Heliport",41.507695,1.787712,945,"EU","ES","ES-CT","Masquefa","no",,,"LEBS",,,,
+550443,"LEBS","heliport","Can Bonastre Wine Resort Heliport",41.507695,1.787712,945,"EU","ES","ES-CT","Masquefa","no","LEBS",,"LEBS",,,,
 549920,"LEBU","heliport","Bustarviejo Heliport",40.856922,-3.742135,3972,"EU","ES","ES-MD","Bustarviejo","no",,,"LEBU",,,,"Brigadas Forestales"
 4005,"LEBZ","medium_airport","Badajoz Airport",38.8913,-6.82133,609,"EU","ES","ES-EX","Badajoz","yes","LEBZ","BJZ","LEBZ",,"https://www.aena.es/en/badajoz.html","https://en.wikipedia.org/wiki/Badajoz_Airport","Talavera La Real Airport"
-43278,"LECA","small_airport","La Nava - Corral De Ayllón Airfield",41.410801,-3.44833,3280,"EU","ES","ES-CL","Corral de Ayllón","no",,,"LECA",,,,
-43244,"LECC","heliport","Cas Curredó Heliport",38.9291,1.46633,278,"EU","ES","ES-IB","Santa Eulària des Riu","no",,,"LECC",,,,
+43278,"LECA","small_airport","La Nava - Corral De Ayllón Airfield",41.410801,-3.44833,3280,"EU","ES","ES-CL","Corral de Ayllón","no","LECA",,"LECA",,,,
+43244,"LECC","heliport","Cas Curredó Heliport",38.9291,1.46633,278,"EU","ES","ES-IB","Santa Eulària des Riu","no","LECC",,"LECC",,,,
 4006,"LECD","small_airport","La Cerdanya Airfield",42.386398,1.86667,3586,"EU","ES","ES-CT","Alp","no",,,"LECD",,,"https://en.wikipedia.org/wiki/La_Cerdanya_Aerodrome",
-563315,"LECE","heliport","Reus Emergency Center Heliport",41.133698,1.187351,312,"EU","ES","ES-CB","Tarragona","no",,,"LECE",,,,
+563315,"LECE","heliport","Reus Emergency Center Heliport",41.133698,1.187351,312,"EU","ES","ES-CT","Tarragona","no","LECE",,"LECE",,,,
 43241,"LECF","small_airport","Calaf-Sallavinera Airfield",41.744202,1.55694,2355,"EU","ES","ES-CT","Sant Pere Sallavinera","no",,,"LECF",,,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Calaf-Salavinera",
 300859,"LECH","medium_airport","Castellón-Costa Azahar Airport",40.213889,0.073333,1182,"EU","ES","ES-VC","Castellón de la Plana","yes","LECH","CDT","LECH",,"https://www.aeroportcastello.com/","https://en.wikipedia.org/wiki/Castell%C3%B3n%E2%80%93Costa_Azahar_Airport",
-30367,"LECI","small_airport","Santa Cilia De Jaca Airfield",42.569199,-0.727778,2241,"EU","ES","ES-AR","Huesca","no",,,"LECI",,"http://www.fly-pyr.es","https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Santa_Cilia-Los_Pirineos",
-29760,"LECN","small_airport","Castellon de la Plana Aerodrome",39.99836,0.026355,20,"EU","ES","ES-VC","Castellón de la Plana","no",,,"LECN",,"http://aeroclubcastellon.com","https://en.wikipedia.org/wiki/Castell%C3%B3n_Airport","CDT"
+30367,"LECI","small_airport","Santa Cilia de Jaca Airfield",42.569199,-0.727778,2241,"EU","ES","ES-AR","Huesca","no","LECI",,"LECI",,"http://www.fly-pyr.es","https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Santa_Cilia-Los_Pirineos",
+29760,"LECN","small_airport","Castellon de la Plana Aerodrome",39.99836,0.026355,20,"EU","ES","ES-VC","Castellón de la Plana","no","LECN",,"LECN",,"http://aeroclubcastellon.com","https://en.wikipedia.org/wiki/Castell%C3%B3n_Airport","CDT"
 4007,"LECO","medium_airport","A Coruña Airport",43.302101,-8.37726,326,"EU","ES","ES-GA","Culleredo","yes","LECO","LCG","LECO",,"https://www.aena.es/en/a-coruna.html","https://en.wikipedia.org/wiki/A_Coru%C3%B1a_Airport","The Groyne, La Coruña"
-43254,"LECT","small_airport","El Castaño Airfield",39.013604,-4.387141,2116,"EU","ES","ES-CM","Luciana","no",,,"LECT",,,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_El_Casta%C3%B1o",
+43254,"LECT","small_airport","El Castaño Airfield",39.013604,-4.387141,2116,"EU","ES","ES-CM","Luciana","no","LECT",,"LECT",,,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_El_Casta%C3%B1o",
 4044,"LECU","medium_airport","Madrid-Cuatro Vientos Airport",40.370701,-3.78514,2269,"EU","ES","ES-MD","Madrid","no","LECU",,"LECU",,"https://www.aena.es/en/madrid-cuatro-vientos.html","https://en.wikipedia.org/wiki/Cuatro_Vientos_Airport","LEVS, ECV"
 326765,"LECV","heliport","Base Aérea de Colmenar Viejo",40.697296,-3.763255,3264,"EU","ES","ES-MD","Colmenar Viejo","no",,,"LECV",,,,"FAMET"
 308328,"LEDA","medium_airport","Lleida-Alguaire Airport",41.728185,0.535023,1152,"EU","ES","ES-CT","Lleida","yes","LEDA","ILD","LEDA",,"http://www.aeroportlleida.cat/?L=2","https://en.wikipedia.org/wiki/Lleida-Alguaire_Airport",
@@ -55931,11 +55946,11 @@
 46343,"RU-0418","closed","Ozyorny Heliport",57.865483923,33.6708641052,,"EU","RU","RU-TVE","Ozyorny","no",,,,,,,"Ozerny Heliport, Вертодром Озёрный, Вертодром Озерный"
 46344,"RU-0419","closed","Maksatikha Airport",57.7728697983,35.8950805664,,"EU","RU","RU-TVE","Maksatikha","no",,,,,,,"Maxatikha Airport, Аэропорт Максатиха"
 46345,"RU-0420","small_airport","Staritsa Airstrip",56.512343544100005,34.9719715118,,"EU","RU","RU-TVE","Staritsa","no",,,,,,,"ВПП Старица"
-46348,"RU-0421","small_airport","Otradnaya Airfield",44.382827,41.490469,,"EU","RU","RU-KDA","Otradnaya","no",,,,"ZE4A",,,"Аэропорт Отрадная"
+46348,"RU-0421","small_airport","Otradnaya Airfield",44.382189,41.489005,1588,"EU","RU","RU-KDA","Otradnaya","no",,,,"ZE4A",,,"ЗЕ4А, Аэропорт Отрадная"
 46349,"RU-0422","closed","Mostovskoy Airfield",44.393346,40.81614,,"EU","RU","RU-KDA","Mostovskoy","no",,,,,,,"Аэропорт Мостовской, ZA8K"
 46350,"RU-0423","small_airport","Labinsk",44.663708,40.752668,,"EU","RU","RU-KDA","Labinsk","no",,,"URKW",,,,"Аэропорт Лабинск"
 46351,"RU-0424","small_airport","Kurganinsk Airfield",44.863048,40.625768,,"EU","RU","RU-KDA","Kurganinsk","no",,,,"ZE4C",,,"Аэропорт Курганинск"
-46352,"RU-0425","closed","Kislovodsk Airport",43.9486,42.627,2702,"EU","RU","RU-STA","Kislovodsk","no",,,,,,,"Аэропорт Кисловодск, URMK"
+46352,"RU-0425","closed","Kislovodsk Airport",43.9486,42.627,2702,"AS","RU","RU-STA","Kislovodsk","no",,,,,,,"Аэропорт Кисловодск, URMK, УРМК"
 46353,"RU-0426","small_airport","Psebay Airfield",44.110453,40.818844,,"EU","RU","RU-KDA","Psebay","no",,,,"ZE4B",,,"Аэропорт Псебай"
 46464,"RU-0427","heliport","Bugry Helipad",60.0564926747,30.3958761692,,"EU","RU","RU-LEN",,"no",,,,,,,"Вертолётная площадка Бугры"
 46465,"RU-0428","heliport","Osinovaya Roshcha Helipad",60.1020986078,30.2621734142,,"EU","RU","RU-SPE","Saint Petersburg","no",,,,,,,"Вертолётная площадка Осиновая Роща"
@@ -56593,7 +56608,7 @@
 44849,"RU-10074","small_airport","Shoyna Airstrip",67.869856,44.151193,25,"EU","RU","RU-NEN","Shoyna","no",,,"ULBO",,,,"Аэропорт Шойна, УЛБО"
 44850,"RU-10075","small_airport","Shenkursk Airfield",62.118229,42.89907,,"EU","RU","RU-ARK","Shenkursk","no",,,,"ULAN",,,"Nikiforovskaya, Аэропорт Шенкурск, Аэропорт Никифоровская, УЛАН"
 44992,"RU-10076","medium_airport","Smolensk North Airport",54.824,32.025,820,"EU","RU","RU-SMO","Smolensk","no",,"LNX",,"XUBS",,"https://en.wikipedia.org/wiki/Smolensk_North_Airport","Smolensk Severny Airfield, Аэродром Смоленск Северный, ЬУБС"
-45191,"RU-10077","medium_airport","Yeysk Airport",46.68,38.21,60,"AS","RU","RU-KDA","Yeysk","no",,"EIK","URKE","XRKE",,,"Eysk Airport, Аэропорт Ейск, УРКЕ, ЬРКЕ"
+45191,"RU-10077","medium_airport","Yeysk Airport",46.68,38.21,60,"EU","RU","RU-KDA","Yeysk","no",,"EIK","URKE","XRKE",,,"Eysk Airport, Аэропорт Ейск, УРКЕ, ЬРКЕ"
 46088,"RU-10078","small_airport","Morozovsk Air Base",48.313,41.791,400,"EU","RU","RU-ROS","Morozovsk","no",,,"URRM","XRRM",,"https://en.wikipedia.org/wiki/Morozovsk_(air_base)","Аэродром Морозовск, ЬРРМ, УРРМ"
 46487,"RU-10079","heliport","Kem Helipad",64.96,34.64,82,"EU","RU","RU-KR","Kem","no",,,"ULPE",,,,"Вертолётная площадка Кемь, УЛПЕ"
 526835,"RU-1008","heliport","KU №3 (88-Y KILOMETR)",69.523798,68.425373,,"AS","RU","RU-YAN","Bovanenkovo","no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
@@ -63245,6 +63260,7 @@
 607349,"SS-0074","small_airport","Akot Airstrip",6.55304,30.033899,,"AF","SS","SS-LK","Akot","no",,,,,,,
 607393,"SS-0075","heliport","UNISFA Doukra Camp Heliport",9.625236,28.434204,1325,"AF","SS","SS-ABY","Nainaya","no",,,,,,,
 607394,"SS-0076","heliport","UNISFA Todach Camp Heliport",9.73357,28.47275,1325,"AF","SS","SS-ABY","Todach","no",,,,,,,
+609885,"SS-0077","small_airport","Deim Zubeir Airstrip",7.71196,26.18828,2093,"AF","SS","SS-BW","Deim Zubeir","no",,,,,,,
 606061,"SS07","small_airport","Fazenda Lote 07 Airport",-12.707482,-56.809923,1033,"SA","BR","BR-MT","Tapurah","no",,,"SS07","MT1173",,,
 600774,"SS0L","heliport","Parque São Lourenço II Heliport",-22.766792,-47.245392,2041,"SA","BR","BR-SP","Nova Odessa","no",,,"SS0L","SP1227",,,
 45926,"SS1","seaplane_base","North Country Seaplane Base",46.369833,-91.798,1000,"NA","US","US-WI","Solon Springs","no",,,"SS1","SS1",,,
@@ -64957,6 +64973,7 @@
 24714,"TA06","small_airport","Morris Manor Airport",33.16120147705078,-95.80580139160156,610,"NA","US","US-TX","Cumby","no",,,"TA06","TA06",,,
 24715,"TA07","small_airport","Jet Ag Inc Airport",30.0072002411,-94.9669036865,70,"NA","US","US-TX","Dayton","no",,,"TA07","TA07",,,
 24716,"TA08","small_airport","Flying M Airport",33.149600982666016,-96.2739028930664,585,"NA","US","US-TX","Floyd","no",,,"TA08","TA08",,,
+609901,"TA09","small_airport","Flying W Airstrip",29.177081,-99.914374,885,"NA","US","US-TX","Uvalde","no",,,"TA09","TA09",,,
 24719,"TA11","small_airport","Tsa Gliderport",32.382499,-97.011852,660,"NA","US","US-TX","Midlothian","no",,,"TA11","TA11",,,
 24721,"TA13","small_airport","Nebtex Land Company Airport",36.208131,-102.872672,4373,"NA","US","US-TX","Texline","no",,,"TA13","TA13",,,
 24722,"TA14","heliport","LYB Heliport",29.83573,-95.10889,41,"NA","US","US-TX","Channelview","no",,,"TA14","TA14",,,"LPC Heliport"
@@ -66017,7 +66034,7 @@
 25177,"TX62","small_airport","Rhodes Ranch Airport",32.63349914550781,-95.43910217285156,405,"NA","US","US-TX","Mineola","no",,,"TX62","TX62",,,
 25178,"TX63","heliport","Brownfield Regional Medical Center Heliport",33.187599182128906,-102.26799774169922,3320,"NA","US","US-TX","Brownfield","no",,,"TX63","TX63",,,
 25179,"TX64","small_airport","Lazy 9 Ranch Airport",33.29930114746094,-97.52729797363281,1020,"NA","US","US-TX","Decatur","no",,,"TX64","TX64",,,
-25180,"TX65","heliport","Beechwood Heliport",33.023101806640625,-97.28829956054688,645,"NA","US","US-TX","Fort Worth","no",,,"TX65","TX65",,,
+25180,"TX65","closed","Beechwood Heliport",33.023102,-97.2883,645,"NA","US","US-TX","Fort Worth","no",,,,,,,"TX65"
 25181,"TX66","small_airport","Rebel Field",29.398799896240234,-95.07849884033203,28,"NA","US","US-TX","Alta Loma","no",,,"TX66","TX66",,,
 25182,"TX67","small_airport","Hodges Air Field",32.3606,-97.302498,900,"NA","US","US-TX","Keene","no",,,"TX67","TX67",,,"Embry Ranch"
 45846,"TX69","heliport","Southwest General Hospital Heliport",29.352128,-98.54494,657,"NA","US","US-TX","San Antonio","no",,,"TX69","TX69",,,
@@ -66665,7 +66682,7 @@
 44615,"UHHY","small_airport","Chumikan Airport",54.695999,135.285995,,"AS","RU","RU-KHA","Chumikan","no",,,"UHHY",,,"https://en.wikipedia.org/wiki/Chumikan_Airport","Аэропорт Чумикан"
 44367,"UHK1","small_airport","Kalinka Airport",48.407329,135.411571,151,"AS","RU","RU-KHA","Blagodatnoye","no",,,"UHK1",,,"https://en.wikipedia.org/wiki/Blagodatnoye","Blagodatnoye Air Base, Аэродром Благодатное"
 44857,"UHK2","small_airport","Garovka Air Base",48.395946,135.223477,290,"AS","RU","RU-KHA","Khabarovsk","no",,,"UHK2",,,,"Аэродром Гаровка"
-32517,"UHKD","medium_airport","Dzemgi Airport",50.605598,137.080994,89,"AS","RU","RU-KHA","Komsomolsk-na-Amur","no","UHKD",,"UHKD",,,"https://en.wikipedia.org/wiki/Dzemgi_Airport",
+32517,"UHKD","medium_airport","Dzemgi Airport",50.605625,137.081266,89,"AS","RU","RU-KHA","Komsomolsk-na-Amur","no",,,"UHKD","XHKD",,"https://en.wikipedia.org/wiki/Dzemgi_Airport","УХКД, ЬХКД, Дземги, Комсомольск-на-Амуре"
 43011,"UHKG","medium_airport","Kamenny Ruchey Naval Air Base",49.235703,140.1931,659,"AS","RU","RU-KHA","Sovetskaya Gavan","no","UHKG",,"UHKG","XHKG",,"https://en.wikipedia.org/wiki/Kamenny_Ruchey","УХКГ, ЬХКГ, Монгохто, Каменный Ручей, Советская Гавань"
 31790,"UHKK","medium_airport","Komsomolsk-on-Amur Airport",50.409000396728516,136.9340057373047,92,"AS","RU","RU-KHA","Komsomolsk-on-Amur","yes","UHKK","KXK","UHKK",,,"https://en.wikipedia.org/wiki/Komsomolsk-on-Amur_Airport","Komsomolsk-na-Amure Airport, Khurba Airport, Аэропорт Комсомольск-на-Амуре, Аэропорт Хурба"
 43866,"UHKM","medium_airport","Sovetskaya Gavan (Maygatka) Airport",48.925067,140.035348,768,"AS","RU","RU-KHA","Sovetskaya Gavan","no","UHKM","GVN","UHKM",,,,"Sovietskaya Gavan Airport, May-Gatka Airport, Аэропорт Советская Гавань, Аэропорт Май-Гатка"
@@ -66814,7 +66831,7 @@
 32040,"ULAM","medium_airport","Naryan Mar Airport",67.639999,53.121899,36,"EU","RU","RU-NEN","Naryan Mar","yes","ULAM","NNM","ULAM",,,"https://en.wikipedia.org/wiki/Naryan-Mar_Airport","Нарья́н-Мар"
 46485,"ULAO","small_airport","Onega Airfield",63.909376,38.121786,59,"EU","RU","RU-ARK","Onega","no",,,"ULAO",,,"https://ru.wikipedia.org/wiki/%D0%9E%D0%BD%D0%B5%D0%B3%D0%B0_(%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)","Аэропорт Онега, УЛАО"
 44755,"ULAR","small_airport","Kargopol",61.515033,38.912039,420,"EU","RU","RU-ARK","Kargopol","no",,,"ULAR",,,,"Аэропорт Каргополь, УЛАР"
-42918,"ULAS","small_airport","Solovki Airport",65.029996,35.730558,60,"AS","RU","RU-ARK","Solovetsky Islands","yes","ULAS","CSH","ULAS","ULAS",,"https://en.wikipedia.org/wiki/Solovki_Airport","Аэропорт Соловки, УЛАС"
+42918,"ULAS","small_airport","Solovki Airport",65.029996,35.730558,60,"EU","RU","RU-ARK","Solovetsky Islands","yes",,"CSH","ULAS","ULAS",,"https://en.wikipedia.org/wiki/Solovki_Airport","Аэропорт Соловки, УЛАС"
 599550,"ULBK","small_airport","Kamenka Airfield",65.87835,44.112947,25,"EU","RU","RU-ARK","Kamenka","no",,,"ULBK",,,,"УЛБК, Каменка"
 46484,"ULBM","small_airport","Purnema Airfield",64.3854,37.441235,131,"EU","RU","RU-ARK","Purnema","no",,,"ULBM",,,,"Аэропорт Пурнема, УЛБМ"
 44757,"ULBZ","small_airport","Letnyaya Zolotitsa Airstrip",64.959999,36.830002,16,"EU","RU","RU-ARK","Letnyaya Zolotitsa","no",,,"ULBZ",,,,"Аэропорт Летняя Золотица, УЛБЗ"
@@ -71161,7 +71178,7 @@
 605969,"US-12921","closed","Fort Myers City Airport",26.632048,-81.853281,,"NA","US","US-FL",,"no",,,,,,,
 605996,"US-12922","heliport","James Heliport",28.58615,-82.471914,87,"NA","US","US-FL","Brooksville","no",,,"2FL8","2FL8",,,
 606001,"US-12923","seaplane_base","Webb Lake Lodge Seaplane Base",46.029794,-92.12703,940,"NA","US","US-WI","Webb Lake","no",,,"24WI","24WI",,,
-606009,"US-12924","small_airport","Ebert Field",41.916029,-89.272074,830,"NA","US","US-IL","Ashton","no",,,"47IL","47IL",,,
+606009,"US-12924","small_airport","Ebert Field RLA",41.916044,-89.272118,863,"NA","US","US-IL","Ashton","no",,,"55IL","55IL",,,"47IL"
 606021,"US-12925","closed","Remuda Ranch / Port of the Islands Airfield",25.954686,-81.512607,,"NA","US","US-FL",,"no",,,,,,,
 606024,"US-12926","closed","Casa Ybel Airport / Island Beach Club Airport",26.425641,-82.072953,,"NA","US","US-FL",,"no",,,,,,,
 606026,"US-12927","closed","Lehigh Acres Airpark",26.66217,-81.605935,,"NA","US","US-FL",,"no",,,,,,,"9X3"
@@ -71247,6 +71264,12 @@
 609856,"US-13000","heliport","Essentia Health Graceville Heliport",45.562101,-96.43431,1103,"NA","US","US-MN","Graceville","no",,,"MN36","MN36",,,
 609858,"US-13001","heliport","Cooper Creek Heliport",37.097062,-84.982634,1010,"NA","US","US-KY","Russell Springs","no",,,"2KY3","2KY3",,,
 609864,"US-13002","small_airport","Ola Airstrip",44.20579,-116.25109,4085,"NA","US","US-ID","Ola","no",,,,,,,"Ola, High Valley, private"
+609886,"US-13003","small_airport","Charles Park Restricted Landing Area",40.417734,-89.134633,711,"NA","US","US-IL","Stanford","no",,,"58IL","58IL",,,
+609888,"US-13004","small_airport","Possumhaw Airport",36.812091,-95.035242,772,"NA","US","US-OK","Welch","no",,,"9OK5","9OK5",,,
+609890,"US-13005","small_airport","Big Sky Adventures Airport",37.859838,-84.486834,923,"NA","US","US-KY","Nicholasville","no",,,"3KY1","3KY1",,,
+609898,"US-13006","small_airport","Paynes Landing",35.243675,-86.412851,775,"NA","US","US-TN","Lynchburg","no",,,"1TN7","1TN7",,,
+609908,"US-13007","small_airport","Lewis Field",33.662871,-96.2172,651,"NA","US","US-TX","Ravenna","no",,,"3TX2","3TX2",,,
+609922,"US-13008","heliport","CRC Aviation Heliport",30.540083,-97.797472,865,"NA","US","US-TX","Cedar Park","no",,,"2TX3","2TX3",,,
 335788,"US-1301","closed","Baird Ranch Airstrip",30.276247,-98.310106,,"NA","US","US-TX","Johnson City","no",,,,,,,
 334414,"US-1302","small_airport","Morgan's Airport",45.065474,-123.329269,,"NA","US","US-OR","Ballston","no",,,"OR71","OR71",,,
 334415,"US-1303","heliport","Zuma Beach Emergency Helipad",34.01885,-118.82685,,"NA","US","US-CA","Malibu","no",,,,,,,
@@ -72426,7 +72449,7 @@
 338815,"US-2476","small_airport","Flat Rock Creek Landing Strip",29.59578,-100.54625,1540,"NA","US","US-TX","Brackettville","no",,,,,,,
 338816,"US-2477","closed","Mud Creek Airport",29.44291,-100.63125,,"NA","US","US-TX","Brackettville","no",,,,,,,
 338817,"US-2478","small_airport","A Foyt Ranch Airport",29.413675,-100.596485,1172,"NA","US","US-TX","Brackettville","no",,,,,,,
-338818,"US-2479","small_airport","Pinto Creek Airport",29.3952,-100.46863,1172,"NA","US","US-TX","Brackettville","no",,,,,,,
+338818,"US-2479","small_airport","Pinto Creek Airport",29.3951,-100.468701,1192,"NA","US","US-TX","Brackettville","no",,,"TX65","TX65",,,
 338819,"US-2480","closed","Elm Creek Airport",29.38869,-100.45335,,"NA","US","US-TX","Brackettville","no",,,,,,,
 338820,"US-2481","closed","Pinto Springs Airport",29.3974,-100.44482,,"NA","US","US-TX","Brackettville","no",,,,,,,
 338821,"US-2482","small_airport","Doak Ranch Airport",29.57056,-100.787356,1350,"NA","US","US-TX","Del Rio","no",,,,,,,
@@ -74718,7 +74741,7 @@
 346288,"US-4765","small_airport","Las Arenas Earth and Sky Observatory Airport",37.478667,-105.632453,7582,"NA","US","US-CO","Alamosa","no",,,"2CO2","2CO2",,,
 346294,"US-4766","small_airport","Ritel Copter Airstrip",42.313802,-92.411751,982,"NA","US","US-IA","Hudson","no",,,"IA42","IA42",,,
 346311,"US-4767","small_airport","Kelley Airport",41.35582,-95.848236,1196,"NA","US","US-IA","Crescent","no",,,"IA32","IA32",,,
-346376,"US-4768","small_airport","Dornak Braden Airport",29.70872,-96.36847,223,"NA","US","US-TX","Alleyton","no",,,"0TX8","0TX8",,,
+346376,"US-4768","closed","Dornak Braden Airport",29.70872,-96.36847,223,"NA","US","US-TX","Alleyton","no",,,,,,,"0TX8"
 346387,"US-4769","small_airport","Skydive California Airport",37.731326,-121.335589,35,"NA","US","US-CA","Tracy","no",,,"CA74","CA74",,,
 346389,"US-4770","heliport","Gateway Helipad Heliport",38.676414,-108.978614,4575,"NA","US","US-CO","Gateway","no",,,"7CO1","7CO1",,,
 346392,"US-4771","heliport","Kremmling Memorial Hospital Heliport",40.076269,-105.925273,7918,"NA","US","US-CO","Granby","no",,,"51CO","51CO",,,
@@ -79021,7 +79044,7 @@
 557986,"US-9068","small_airport","Nautical Mile Airport",42.964158,-74.744811,725,"NA","US","US-NY","Fort Plain","no",,,"5NK6","5NK6",,,
 557990,"US-9069","heliport","Unicoi County Hospital Heliport",36.11914,-82.444375,1659,"NA","US","US-TN","Erwin","no",,,"62TN","62TN",,,
 558001,"US-9070","heliport","Hayes Helicopters Heliport",37.085816,-93.249775,1270,"NA","US","US-MO","Ozark","no",,,"6MO8","6MO8",,,
-556691,"US-9071","heliport","Mount Carmel Grove City Heliport",39.854027,-83.073805,,"NA","US","US-OH","Grove City","no",,,,,,,
+556691,"US-9071","heliport","Mount Carmel Grove City Heliport",39.854039,-83.073775,817,"NA","US","US-OH","Grove City","no",,,"51OH","51OH",,,
 556740,"US-9072","heliport","Diley Ridge Medical Center Heliport",39.851032,-82.78539,,"NA","US","US-OH","Canal Winchester","no",,,,,,,"Hospital Heliports, Heliports in Ohio, American Heliports, North American Heliports"
 557289,"US-9073","small_airport","7 Oaks Flight Park",32.9986,-81.208343,138,"NA","US","US-SC","Fairfax","no",,,"K7S1","7S1",,,
 557304,"US-9074","small_airport","Beulah Field",33.170477,-98.622361,1120,"NA","US","US-TX","Graham","no",,,"01TX","01TX",,,
@@ -81510,7 +81533,7 @@
 606,"VQTY","small_airport","Yongphulla Airport",27.25627,91.514633,9000,"AS","BT","BT-41","Yongphulla","yes","VQTY","YON","VQTY",,,"https://en.wikipedia.org/wiki/Yongphulla_Airport","Yonphula Airport, VQ10"
 509452,"VRAH","small_airport","Hoarafushi Airport",6.96967,72.896287,,"AS","MV","MV-07",,"yes","VRAH","HRF","VRAH",,,"https://en.wikipedia.org/wiki/Hoarafushi_Airport",
 336108,"VRBK","small_airport","Kulhudhuffushi Airport",6.630762,73.067815,,"AS","MV","MV-23","Kulhudhuffushi","yes","VRBK","HDK","VRBK","HDK",,"https://en.wikipedia.org/wiki/Kulhudhuffushi_Airport",
-335882,"VRDA","large_airport","Maafaru International Airport",5.817407,73.468404,6,"AS","MV","MV-25","Noonu Atoll","yes","VRDA","NMF","VRDA",,"http://www.maafaruairport.com","https://en.wikipedia.org/wiki/Maafaru_International_Airport",
+335882,"VRDA","medium_airport","Maafaru International Airport",5.817407,73.468404,6,"AS","MV","MV-25","Noonu Atoll","yes","VRDA","NMF","VRDA",,"http://www.maafaruairport.com","https://en.wikipedia.org/wiki/Maafaru_International_Airport",
 316421,"VREI","small_airport","Ifuru Airport",5.7083,73.025,20,"AS","MV","MV-13","Ifuru Island","no","VREI","IFU","VREI",,,"https://en.wikipedia.org/wiki/Ifuru_Airport",
 316420,"VRMD","small_airport","Dharavandhoo Airport",5.1561,73.1302,6,"AS","MV","MV-20","Baa Atoll","yes","VRMD","DRV","VRMD",,,"https://en.wikipedia.org/wiki/Dharavandhoo_Airport",
 300712,"VRMF","small_airport","Fuvahmulah Airport",-0.309722,73.435,17,"AS","MV","MV-29","Fuvahmulah Island","no",,"FVM","VRMR",,,"https://en.wikipedia.org/wiki/Fuvahmulah_Airport",
@@ -81523,7 +81546,7 @@
 330376,"VRMU","small_airport","Dhaalu Atoll Airport",2.666075,72.887118,6,"AS","MV","MV-17","Kudahuvadhoo","no","VRMU","DDD","VRMU",,,"https://en.wikipedia.org/wiki/Dhaalu_Airport",
 301316,"VRMV","medium_airport","Villa International Airport Maamigili",3.471751,72.832633,6,"AS","MV","MV-00","Maamigili","yes","VRMV","VAM","VRMV",,,"https://en.wikipedia.org/wiki/Maamigili_Airport",
 316419,"VRNT","small_airport","Thimarafushi Airport",2.211,73.1533,6,"AS","MV","MV-08","Thimarafushi","yes","VRNT","TMF","VRNT",,,"https://en.wikipedia.org/wiki/Thimarafushi_Airport",
-336109,"VRQM","small_airport","Maavaarulaa Airport",0.338085,73.512869,,"AS","MV","MV-28","Maavaarulu","yes","VRQM","RUL","VRQM","RUL",,"https://en.wikipedia.org/wiki/Maavarulu_Airport",
+336109,"VRQM","small_airport","Maavaarulaa Airport",0.338085,73.512869,28,"AS","MV","MV-28","Maavaarulu","yes","VRQM","RUL","VRQM","RUL",,"https://en.wikipedia.org/wiki/Maavarulu_Airport",
 25498,"VT01","small_airport","Teal Farm Airport",44.282386,-72.937557,1440,"NA","US","US-VT","Huntington","no",,,"VT01","VT01",,,
 25500,"VT03","small_airport","Maule's Roost Airport",44.08869934082031,-72.98090362548828,1100,"NA","US","US-VT","Lincoln","no",,,"VT03","VT03",,,
 25501,"VT04","heliport","Southwestern Vermont Heliport",42.8745002746582,-73.20760345458984,800,"NA","US","US-VT","Bennington","no",,,"VT04","VT04",,,
@@ -81951,7 +81974,7 @@
 41408,"WAKQ","small_airport","Senggo Airport",-5.690668,139.350414,52,"AS","ID","ID-PS","Senggo-Papua Island","no","WAKQ","ZEG","WAKQ",,,"http://id.wikipedia.org/wiki/Bandar_Udara_Senggo",
 41437,"WAKT","medium_airport","Tanah Merah Airport",-6.09669,140.303521,57,"AS","ID","ID-PS","Tanah Merah","yes","WAKT","TMH","WAKT",,,"https://en.wikipedia.org/wiki/Tanah_Merah_Airport",
 32629,"WALE","small_airport","Melalan Airport",-0.203611,115.760002,330,"AS","ID","ID-KI","Melak-Borneo Island","no","WALE","GHS","WALE",,,"https://en.wikipedia.org/wiki/West_Kutai_Melalan_Airport","WRLE, West Kutai"
-26758,"WALG","small_airport","Tanjung Harapan Airport",2.835833,117.373611,20,"AS","ID","ID-KU","Tanjung Selor-Borneo Island","yes","WAGD","TJS","WAQD",,,"https://en.wikipedia.org/wiki/Tanjung_Harapan_Airport",
+26758,"WALG","small_airport","Tanjung Harapan Airport",2.838139,117.374584,20,"AS","ID","ID-KU","Tanjung Selor-Borneo Island","yes","WAGD","TJS","WAQD",,,"https://en.wikipedia.org/wiki/Tanjung_Harapan_Airport",
 35277,"WALJ","small_airport","Datadawai Airport",0.807028,114.529052,508,"AS","ID","ID-KI","Datadawai-Borneo Island","yes","WALJ","DTD","WALJ",,,"https://en.wikipedia.org/wiki/Datadawai_Airport",
 550612,"WALK","medium_airport","Nusantara International Airport",-1.16053,116.71193,23,"AS","ID","ID-KI","Nusantara","no","WALK",,"WALK",,"https://petanusantara.id/en/locations/bandar-udara-internasional-nusantara","https://en.wikipedia.org/wiki/Nusantara_International_Airport",
 26760,"WALL","large_airport","Sultan Aji Muhammad Sulaiman Sepinggan International Airport",-1.268342,116.89452,12,"AS","ID","ID-KI","Balikpapan","yes","WALL","BPN","WALL",,"http://sepinggan-airport.com/","https://en.wikipedia.org/wiki/Sultan_Aji_Muhamad_Sulaiman_Airport","WRLL, Balikpapan Airport, Sepinggan Airport, Sepinggang Airfield"
